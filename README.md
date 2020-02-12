@@ -1,6 +1,6 @@
 # Python Interview Questions And Answers
 
-### Curated List of Real-time Python Interview Questions. Help fellow developers by contributing to these interview Questions - Create a pull request in  [Github](https://github.com/vamsitallapudi).
+### Curated List of Real-time Python Interview Questions. Help fellow developers by contributing to these interview Questions - Create a pull request in  [Github](https://github.com/vamsitallapudi/Python-Interview-Questions-And-Answers).
 
 -   **What is an Interpreted Language?**<br/>
     A) An Interpreted Language is the one which executes most of its instructions directly without the need to compile. Python is a good Example of Interpreted Language.
