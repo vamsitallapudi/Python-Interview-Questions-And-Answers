@@ -2,6 +2,16 @@
 
 ### Curated List of Real-time Python Interview Questions. Help fellow developers by contributing to these interview Questions - Create a pull request in  [Github](https://github.com/vamsitallapudi/Python-Interview-Questions-And-Answers).
 
+-   **What is Python?**<br/>
+    A) Python is an interpreted, high-level, general-purpose programming language. The significant feature of Python Programming Language is its code readability. Python is open source, which makes it free to use and distribute.
+
+-   **What are the advantages of using Python?**<br/>
+    A) Python is mainly used for the following: 
+    
+    1) Extensive Support Libraries like Numpy, Pandas etc.
+    2) Dynamically typed Language,
+    3) High Level Language,
+
 -   **What is an Interpreted Language?**<br/>
     A) An Interpreted Language is the one which executes most of its instructions directly without the need to compile. Python is a good Example of Interpreted Language.
 
