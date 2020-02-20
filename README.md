@@ -66,3 +66,44 @@
     s = 'ABCD'<br/>
     print(s.lower())
 
+-   **What are the supported data types in Python?**<br/>
+    A) Python has 5 standard data types<br/>
+    1. Numbers
+    2. Strings
+    3. List
+    4. Tuples
+    5. Dictionary
+
+-   **What are the Tuples in Python?**<br/>
+    A) Tuples are immutable collection of values enclosed in parenthesis. They can be thought of as read-only lists.
+
+-   **What is a list in Python?**<br/>
+    A) List is a mutable collection of values enclosed in square braces. They can be appended with additional values.
+
+-   **What is the difference between tuples and lists in Python?**<br/>
+    A) List is enclosed in square braces -[] where as tuples are enclosed in curly braces
+    List is mutable and tuple is immutable.
+
+
+-   **What does ** operator do?**<br/>
+    A) Performs exponential calculation. 2**3 is similar to 2 to the power of 3, i.e. 8.
+
+
+-   **How to check if all the characters in a string are digits?**<br/>
+    A) using isDigit() function.
+
+-   **How to initialize an array with zeros?**<br/>
+    A) a = array('i', (0 in range(4)))
+
+
+-   **How to reverse a list?**<br/>
+    A) list.reverse()
+
+-   **What is an incomplete function called?**<br/>
+    A) Stub
+
+- **Does python has a compiler?**<br/>
+    A) Yes. Python has a compiler which compiles automatically.'
+
+- **What are dictionaries in Python?**<br/>
+    A) Dictionaries are similar to hashtable type. They contains key-value pairs. Dictionaries usually consists of numbers and strings but can be of any type.
